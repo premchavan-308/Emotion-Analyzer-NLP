@@ -1,6 +1,6 @@
 # 🎭 Core Emotion Analytics System
 
-[![Streamlit App](https://static.streamlit.io/badge-svg.svg)](https://streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badge-svg.svg)](https://YOUR-APP-NAME.streamlit.app)
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-Scikit--Learn-orange)](https://scikit-learn.org/)
 
